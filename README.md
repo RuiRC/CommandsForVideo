@@ -2,6 +2,9 @@
 - A Domain
 - An Oracle Account (preferably Pay as You Go)
 
+## Notes
+- Some commands may require you to use sudo, use it whenever applicable to your situation
+
 ## Steps:
 
 ### 1 - Update the Host Machine
